@@ -36,10 +36,23 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site 2024-08-25 19:23",
+    "name": "NEFER Cirugía Plástica",
     "versionFirst": "5.9.18",
     "siteFonts": [],
     "imageResize": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/nefer-ico-128x143.png",
+    "mbrsiteDomain": "zrnzc7jbkb",
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 2,
     "versionPublish": "5.9.18"
   },
@@ -47,8 +60,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "NEFER Cirugía Plástica",
+        "meta_descr": "Somos especialistas en asesoría y coordinación para tu procedimiento en cirugía plástica, estética o reconstructiva y acompañamiento pre y post quirúrgico.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
